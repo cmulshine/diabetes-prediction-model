@@ -1,2 +1,6 @@
 # diabetes-prediction-model
-Predicting the probability that each person has a diagnosis of Type 2 Diabetes Mellitus
+Predicting the probability that each person has a diagnosis of Type II Diabetes
+
+Type II diabetes is associated with a range of complications that can significantly impact the quality of life for individuals affected. Early identification of individuals at risk of developing Type II Diabetes allows for targeted and timely preventive interventions. By identifying those at high risk, healthcare providers can work towards preventing or delaying the onset of these complications, including cardiovascular diseases, kidney disorders, and nerve damage, to name a few. Healthcare providers can tailor interventions based on the specific risk factors and characteristics of each patient. This proactive approach is pivotal in reducing the burden of the disease and improving overall health outcomes.
+
+Identifying high-risk individuals early on also offers significant value to the healthcare system as a whole. Preventive measures are typically far more cost-effective than managing the complications associated with diabetes. Additionally, proactive measures that focus on prevention and early intervention can help manage the increasing caseload, reduce hospitalizations, and contribute to the overall resilience of healthcare infrastructures. As the prevalence of diabetes continues to rise globally, identifying high-risk individuals becomes increasingly crucial for the long-term sustainability of healthcare systems.  
